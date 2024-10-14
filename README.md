@@ -23,7 +23,6 @@ Feel free to check out my repositories and connect for all things data and machi
   
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 👩‍🦳I’m ex-[Ipsos](https://www.ipsos.com/en-au) as Quantitative Researcher  
   
