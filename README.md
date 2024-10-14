@@ -42,7 +42,7 @@ Feel free to check out my repositories and connect for all things data and machi
 ### ⚡ Technologies and Skills:  
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieVo09&hide=jupyter%20notebook,html&langs_count=9&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieVo09" />
 </a>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
