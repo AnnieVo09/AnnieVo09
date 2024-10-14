@@ -22,9 +22,6 @@ I enjoy working on end-to-end machine learning projects, from data preprocessing
 Feel free to check out my repositories and connect for all things data and machine learning!  
   
 
-<br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
