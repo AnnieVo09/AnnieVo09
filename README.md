@@ -39,52 +39,28 @@ Feel free to check out my repositories and connect for all things data and machi
 
 - ⚡ Fun fact: Coffee and soft drinks? Not my cup of tea!  
 
+### ⚡ Technologies and Skills:  
 
-</td><td valign="top" width="50%">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieVo09&hide=jupyter%20notebook,html&langs_count=9&layout=compact" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnnieVo09&show_icons=true&count_private=true&hide_border=true" align="left" />
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png"></code><br>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/vba/vba.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 
-</td></tr></table>  
+- Data Analysis (**Python, SAS**).
+- Machine Learning (**Python, TensorFlow, SAS**).
+- Data Warehouse (**PostgreSQL**)
+- Data Visualization and Dashboard (**Tableau, Power BI**)
 
-<br/>  
+### 💻 Notable projects:  
 
-
-##⚡ Technologies and Skills:  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnnieVo09&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieVo09&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AnnieVo09&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
