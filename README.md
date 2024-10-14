@@ -30,7 +30,7 @@ Feel free to check out my repositories and connect for all things data and machi
 - 👩‍🎓I'm currently doing Master at [UTS](https://www.uts.edu.au/)  
   
 
--  I’m pursing Data Analysis and Machine learning, also learning a bit about AI. I'm aim to find a Data Analyst position after graduation in 2025  
+-  💻I’m pursing Data Analysis and Machine learning, also learning a bit about AI. I'm aim to find a Data Analyst position after graduation in 2025  
   
 
 - ⚡ Fun fact: Coffee and soft drinks? Not my cup of tea!  
