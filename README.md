@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 I'm a full-time Data Analyst and Machine Learning enthusiast. With a strong background in analyzing complex datasets, building predictive models, and applying machine learning techniques, I strive to uncover insights that drive meaningful decisions. My journey started with a passion for data, and now I'm focused on mastering data analysis and AI technologies.
 
-I enjoy working on end-to-end machine learning projects, from data preprocessing to model evaluation, and I'm always eager to explore the latest innovations in AI and data science. I’m committed to creating impactful solutions.
+I enjoy working on end-to-end machine learning projects, from data preprocessing to model evaluation, and I'm always eager to explore the latest innovations in AI and data science. 
 
 Feel free to check out my repositories and connect for all things data and machine learning!  
   
